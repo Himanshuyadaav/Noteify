@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Note App</string>
+    <string name="Noteify">Noteify</string>
+    <string name="CreateNote">create Note</string>
+    <string name="SaveNote">save Note</string>
+</resources>
